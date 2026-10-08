@@ -1087,7 +1087,9 @@ useEffect(() => {
 
 
 
-      <footer><span>Swetha.</span> — designed & built with curiosity ✦</footer>
+      <footer className="site-footer">
+  © 2026 Swetha Santhoshkumar. All rights reserved.
+</footer>
 
 
 
