@@ -607,9 +607,9 @@ useEffect(() => {
 
       <p>
 
-        I have hands-on experience in <strong>Python and Django development</strong>
+        I have hands-on experience in <strong>Python and Django development</strong>&nbsp;
 
-         through my internship as a Python Django Web Developer at Ziuke
+        through my internship as a Python Django Web Developer at Ziuke
 
         InfoTech, Thrissur. During my internship, I worked with Django's MVT
 
