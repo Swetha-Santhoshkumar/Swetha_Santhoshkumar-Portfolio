@@ -25,21 +25,6 @@ const profile = {
 
 const projects = [
 
-  {
-
-    name: 'Placement Training Portal',
-
-    type: 'MERN STACK',
-
-    desc: 'A full-stack placement preparation platform with authentication, MCQs, automatic scoring, REST APIs and an admin dashboard.',
-
-    stack: 'React.js • Node.js • Express.js • MongoDB',
-
-    link: profile.github,
-
-    visual: 'placement',
-
-  },
 
   {
 
@@ -51,7 +36,7 @@ const projects = [
 
     stack: 'Python • Django • MySQL • ResNet18 • CNN',
 
-    link: profile.github,
+    link: "https://github.com/Swetha-Santhoshkumar/NeuroInsight",
 
     visual: 'neuro',
 
@@ -70,6 +55,21 @@ const projects = [
     link: profile.github,
 
     visual: 'food',
+
+  },
+{
+
+    name: 'Placement Training Portal',
+
+    type: 'MERN STACK',
+
+    desc: 'A full-stack placement preparation platform with authentication, MCQs, automatic scoring, REST APIs and an admin dashboard.',
+
+    stack: 'React.js • Node.js • Express.js • MongoDB',
+
+    link: profile.github,
+
+    visual: 'placement',
 
   },
 
